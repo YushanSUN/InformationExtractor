@@ -1,2 +1,2 @@
 # InformationExtractor
-Extract infromation from the internet
+We can use this progrom to extract infromation from the internet.
